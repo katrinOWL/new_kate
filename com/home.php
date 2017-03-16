@@ -1,0 +1,1 @@
+$query = "SELECT * FROM wx_pages WHERE page_alias='home' LIMIT 1";
